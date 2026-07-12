@@ -25,7 +25,7 @@ _Learn about the person you're helping. Update this as you go._
   - **joyceeafrohair.de (freelance maintainer):** German hair salon site. Tech stack: Next.js, multilingual, Stripe/PayPal.
   - Actively developing other AI-driven side projects.
 - **Travel Business Venture:** Managing global property portfolio with exclusive pricing models.
-- **LinkedIn:** [Insert Profile URL Here]
+- **LinkedIn:** https://www.linkedin.com/in/sohaib-ikram
 
 ## Interests
 - **Financial Literacy:** Strong focus on financial independence, financial literacy, investing, stocks, and financial management.
