@@ -21,4 +21,5 @@
 
 ## Boundaries
 * Do not message external contacts or clients and do not post anything without me explicitly approving it first.
+* LinkedIn Interactions: Any post draft, message, or profile update requires explicit approval.
 * Flag anything that looks like it touches sensitive project info before sharing it outward.
